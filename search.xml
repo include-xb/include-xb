@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>当传教士的那些日子</title>
+      <link href="/2024/02/23/%E5%BD%93%E4%BC%A0%E6%95%99%E5%A3%AB%E7%9A%84%E9%82%A3%E4%BA%9B%E6%97%A5%E5%AD%90/"/>
+      <url>/2024/02/23/%E5%BD%93%E4%BC%A0%E6%95%99%E5%A3%AB%E7%9A%84%E9%82%A3%E4%BA%9B%E6%97%A5%E5%AD%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="当传教士的那些日子"><a href="#当传教士的那些日子" class="headerlink" title="当传教士的那些日子"></a>当传教士的那些日子</h1><p>所谓传教士, 其实就是我去当个老师教其他同学写代码.</p><p>我一共收过<strong>六</strong>位门徒. 现在乐观地说还剩<strong>一</strong>个. 我教他们可都是<strong>免费</strong>的啊, 但最后这些门徒还是走了. </p><h2 id="我为什么要当传教士"><a href="#我为什么要当传教士" class="headerlink" title="我为什么要当传教士"></a>我为什么要当传教士</h2><p>当然是想创造一个<strong>志趣相投</strong>的人啊. 为什么不找一个? 我想找一个会用电脑的人都难…… 这就很悲伤了.</p><p>自从我有了这爱好之后, 我就发现自己越来越孤独了, 当时除了 Shellof 可以跟我<strong>无障碍交流,</strong> 就没有人了. 所以我想让他们也去学学, <del>拉他们下水</del>. 这样我至少有话题讨论了. 我也不奢求那么多了.</p><h2 id="我的门徒们"><a href="#我的门徒们" class="headerlink" title="我的门徒们"></a>我的门徒们</h2><h3 id="1"><a href="#1" class="headerlink" title="1"></a>1</h3><p>我收的第一个徒弟姓李, 打算学Python. 我花了很久告诉他如何下载, 安装. 最后完成了, 我教他<code>print</code>和<code>input</code>, 他也学会了. <strong>从此再没了踪迹.</strong></p><h3 id="2"><a href="#2" class="headerlink" title="2"></a>2</h3><p>我收的第二个徒弟姓张, 我那天给他发消息: </p><blockquote><p>小伙子啊, 老朽看你骨骼惊奇, 定是学编程的好苗子, 来, 为师教你.</p></blockquote><p>他很爽快答应了. 我当时很高兴. 我又花了很长时间告诉他如何下载安装 Python. 但是他说, 他遇到一个问题. 我问, 有什么困难啊? 和为师讲啊. 他说: </p><blockquote><p>我没有电脑.</p></blockquote><p><strong>后面我没理他.</strong></p><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><p>我教的第三位徒弟姓刘. 和上面那位情况一样, 不想多说了.</p><h3 id="4"><a href="#4" class="headerlink" title="4"></a>4</h3><p>我教的第四位徒弟也姓张, 这位是<strong>主动</strong>找我要学编程的. 我当时想, 终于有一个想学的人了. 我当时问他, 你要从哪个语言开始呢? Python吧. 他说: </p><blockquote><p>C++.</p></blockquote><p>我懵. </p><p>好, 既然笃定上来就要学 C++, 那我就教呗. 我告诉他如何下载安装一些编辑器啊, 从变量到条件判断, 再到循环. 这些内容我都教他了. 他学得很认真. 我真的觉得他可以. 那天, 我给他了一个小小的作业, 写一个简单的计算器. 他给我的代码是: </p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span> (function == <span class="string">&quot;+&quot;</span>)</span><br><span class="line">&#123;</span><br><span class="line">        ...</span><br><span class="line">&#125;</span><br><span class="line">    </span><br><span class="line">    ...</span><br><span class="line">    </span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>我懵, 这代表这我<strong>白上了.</strong> 后来他也不了了之. </p><p>但是最让我惊奇的是这件事. 他中考没上岸, 读了中专. 但因为我对他的影响, 他选择了计算机专业. 前几个月, 他突然给我发消息, 那是一段 C++ 代码, 他问我这里有什么问题. </p><p><strong>士别三日当刮目相待.</strong> 几个月没见, 他已经入门了 C++. </p><h3 id="5"><a href="#5" class="headerlink" title="5"></a>5</h3><p>我收的第五位徒弟是个女孩, 姓叶. 那是 23 年暑假, 大家都中考结束了. 我在 QQ 动态里发过关于我编程的内容. 那天她发消息, 说自己实在是没有事情干了, 闲的发慌. 想学编程, 让我教教她. </p><p>当时我想着, 这是没事干了才来学的, 哪天有事干了, 不就又一次<strong>人走茶凉</strong>了么. </p><p>我开启了劝退式教学. </p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> i = <span class="number">0</span>;</span><br><span class="line">i = i + <span class="number">1</span>;</span><br></pre></td></tr></table></figure><p>这里的<code>i = i+ 1;</code>其实是很正常的语句, 但我知道对于对编程不了解的人这是迷惑性极大的.</p><p>类似的, 像什么<code>(i++) + (i++)</code>的东西我也搬出来了. 最后拗不过她, 就教呗. 老样子从 Python 开始.</p><p>我教到条件判断之后, <strong>又没影了.</strong></p><h3 id="6"><a href="#6" class="headerlink" title="6"></a>6</h3><p>我教的第六位徒弟, 那是高一的事情了, 姓周. 说来有意思, 那是运动会上, 我在给另外一个同学讲关于计算机的东西, 这个周同学他就在旁边听. 之后他找到我, 他说: </p><blockquote><p> 我从小到大都没有什么爱好, 所以这个我一定要抓住.</p></blockquote><p>好, 我当然乐意教啊. 还是 Python, 我告诉他很多资料, 他竟然真的去买了. <strong>Python从入门到精通.</strong> 毕竟也是个高中生了, 学起来就好很多. 我自己给他讲到了函数的内容. 虽然后面感觉他也要跑了, 但还是时不时地会有他告诉我又懂了什么地方. 所以我说, 这应该是我唯一剩余的一个门徒了.</p><h2 id="不当传教士了"><a href="#不当传教士了" class="headerlink" title="不当传教士了"></a>不当传教士了</h2><p>我确实发现, 对编程真正有兴趣的人是<strong>少之又少.</strong> 所以不求和旁人有共同话题了. 但是, 由于我在 B 站发了点视频, 涨了点粉丝, 认识了很多厉害的网友. 虽然不在身边, 但至少有更多人可以说话了.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 编程 </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>详细拆解第一个CPP的HelloWorld项目</title>
       <link href="/2024/02/19/%E8%AF%A6%E7%BB%86%E6%8B%86%E8%A7%A3%E7%AC%AC%E4%B8%80%E4%B8%AACPP%E7%9A%84HelloWorld%E9%A1%B9%E7%9B%AE/"/>
       <url>/2024/02/19/%E8%AF%A6%E7%BB%86%E6%8B%86%E8%A7%A3%E7%AC%AC%E4%B8%80%E4%B8%AACPP%E7%9A%84HelloWorld%E9%A1%B9%E7%9B%AE/</url>
@@ -20,11 +51,11 @@
       
         <tags>
             
-            <tag> C/CPP </tag>
+            <tag> 教程 </tag>
             
             <tag> 编程 </tag>
             
-            <tag> 教程 </tag>
+            <tag> C/CPP </tag>
             
         </tags>
       
@@ -49,9 +80,9 @@
       
         <tags>
             
-            <tag> 编程 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 编程 </tag>
             
             <tag> 计算机 </tag>
             
